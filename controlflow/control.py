@@ -10,3 +10,5 @@ elif grade >= 60:
   print("D")
 else:
   print("F")
+
+  #John Stewart | Codecademy Project | 7/9/2022
