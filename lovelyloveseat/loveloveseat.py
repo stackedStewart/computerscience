@@ -45,3 +45,4 @@ print(customer_one_itemization)
 print("Customer One Total: ")
 print(customer_one_total)
 
+# John Stewart | Lovely Love Seat | Codecademy | 09/07/2022
