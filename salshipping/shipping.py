@@ -32,6 +32,6 @@ else:
 
 print("Cost of Drone Shipping with that weight: $", cost_drone)
 
-# John Stewart | Sal's shipping | Codecademy | 08/09/2022
+# John Stewart | Sal's shipping | Codecademy | 11/09/2022
 
 
