@@ -29,7 +29,7 @@ print(removed_item)
 print(twin_beds)
 
 
-# John Stewart | Review of Lists Python | Codecademy| 14/09/2022
+# John Stewart | Review of Lists Python | Codecademy| 09/14/2022
 
 
 
