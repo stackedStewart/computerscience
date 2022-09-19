@@ -34,3 +34,4 @@ print("Average Daily Revenue: $" + str(average_daily_revenue))
 cuts_under_30 = [hairstyles[i] for i in range(len(hairstyles)) if new_prices[i] < 30]
 print(cuts_under_30)
 
+# John Stewart | Carly's Clippers Python Project | Codecademy | 09/19/2022
