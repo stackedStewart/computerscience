@@ -23,3 +23,12 @@ def generate_trip_instructions(location):
   print("You can use the public subway system to get to " + location)
 
 generate_trip_instructions("Grand Central Station")
+
+def calculate_expenses(plane_ticket_price, car_rental_rate, hotel_rate, trip_time):
+  car_rental_total = car_rental_rate * trip_time
+  
+  hotel_total = hotel_rate * trip_time - 10
+  print(car_rental_total + hotel_total + plane_ticket_price)
+  
+
+calculate_expenses(200, 100, 100, 5)#This calls the paramaters and calculates the total
