@@ -4,7 +4,7 @@ import random
 #SETTING UP
 name = "John"
 
-question = "Will I become and entrapenuer?"
+question = "Will I pass Computer Science?"
 
 answer = ""
 
