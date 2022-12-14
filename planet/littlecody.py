@@ -20,7 +20,19 @@ elif planet == 5:
 elif planet == 6:
     weight = weight * 1.19
 
+   
+'''def planet(i):
+    switcher = {
+        1: weight = weight * 0.91,
+        2: weight = weight * 0.38,
+        3: weight = weight * 2.34,
+        4: weight = weight * 1.06,
+        5: weight = weight * 0.92,
+        6: weight = weight * 1.19
+    }'''
+
 print("Planet you are on: ", planet)#Will print number of planet you are on.
 print("Your weight: ", weight)#Will print Your weight on the chosen planet.
 
 #John Stewart | Littlecody Project | Codecademy | 07/09/2022
+#Updating with a python switch 12/14/2022 //NOT FINISHED 
