@@ -21,3 +21,6 @@ print_balance()
 deduct(500)
 calculate_interest_on_savings()
 calculate_taxes()
+
+#Scoping project on Codecademy
+#15/12/2022
