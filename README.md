@@ -1,1 +1,2 @@
-# Computer Science career path Codecademy. Started 16/4/2022
+# Computer Science career practices 
+## Last updated magic 8 ball with switch alternative(WIP) 12/15/2022
