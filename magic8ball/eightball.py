@@ -4,7 +4,7 @@ import random
 #SETTING UP
 name = "John"
 
-question = "Will I pass Computer Science?"
+question = "Is it time i got my act together?"
 
 answer = ""
 
@@ -46,4 +46,4 @@ else:
 
 print("Magic 8-ball answer: " + answer) #Print 8-ball answer
 
-#John Stewart | Magic 8-Ball | Codecademy | 09/07/2022
+#John Stewart | Magic 8-Ball | 30/01/2023
