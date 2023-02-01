@@ -1,5 +1,5 @@
 #John Stewart
-#I am determined that I will get what I want in life!
+#This is a simple program in python printing my initials in block letters
 print("JJJJJ" " SSSS ")
 print("  J  " "S    S")
 print("  J  " "S     ")
