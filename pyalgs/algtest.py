@@ -19,5 +19,5 @@ print(sum)
 ##print(x + y)
 
 #John Stewart
-#10/22/2022
+#10/02/2023
 #Simple Algorithm test in python
